@@ -1,0 +1,45 @@
+/* google fonts ······················ */
+@import url('https://fonts.googleapis.com/css?family=Muli|Titillium+Web:600');
+
+/*
+html {
+	position: relative;
+	min-height: 100%;
+}
+*/
+
+/* selectores de etiqueta ············ */
+body {
+	color: white;
+	font-family: 'Muli', sans-serif;
+	margin: 0;
+	padding: 0;
+	font-size: 15px;
+}
+
+h1 {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1.5em;
+}
+
+p {
+	margin: 0;
+	margin: 5px;
+}
+
+header {
+	display: block;
+	background: #272727;
+	padding: 20px 0;
+	text-align: center;
+	width: 100%;
+}
+
+footer {
+	background: #97CA30;
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+}
